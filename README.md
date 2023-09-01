@@ -17,7 +17,7 @@
 3. Sur la page Settings, sélectionnez **Update & Security**:
    ![image alt text](https://imgur.com/HW7zinK.png)
 
-4. Sélectionnez **Sécurité Windows**:
+4. Sélectionnez **Sécurité Windows** (**Windows security**):
    ![image alt text](https://imgur.com/XG6MPEd.png)
 
 5. Sélectionnez **Virus and threat protection**:
